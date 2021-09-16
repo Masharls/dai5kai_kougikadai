@@ -1,0 +1,2 @@
+a:3:{s:8:"nickname";s:12:"いってつ";s:5:"email";s:19:"ittetsu@ittetsu.net";s:8:"password";s:10:"tetsutetsu";}
+a:3:{s:8:"nickname";s:10:"mashamasha";s:5:"email";s:20:"masaru.satoh@pmi.com";s:8:"password";s:10:"NIne99ball";}
